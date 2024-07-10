@@ -3,6 +3,5 @@ transformers
 requests
 pillow
 opencv-python
-cv2
 numpy
 streamlit_webrtc
