@@ -2,6 +2,8 @@ streamlit
 transformers
 requests
 pillow
-opencv-python
+PLT
+image
+cv2
 numpy
 streamlit_webrtc
