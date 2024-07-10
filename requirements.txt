@@ -1,0 +1,6 @@
+streamlit
+transformers
+requests
+pillow
+opencv-python
+numpy
